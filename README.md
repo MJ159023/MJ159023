@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello there 👋
 
-Hi my name Emery and I'm interested in game design and tech
+Hi my name is Emery and i'm interested in game design and tech
 
 Operating systems used:
 
