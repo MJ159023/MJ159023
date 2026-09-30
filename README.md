@@ -15,9 +15,6 @@ Computer Science
 
 -  <a href="https://github.com/search?q=user%3Amichael-bruneau+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
 
-
-<img width="128" height="128" alt="3098090" src="https://github.com/user-attachments/assets/ce2e064e-998e-416b-b2fd-f8136cfc1faa" /> - Python
-
 <!--
 **MJ159023/MJ159023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
