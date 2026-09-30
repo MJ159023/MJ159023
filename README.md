@@ -19,6 +19,8 @@ Computer Science
 
 - <a href="https://github.com/search?q=user%3AMJ159023+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 
+- <a href="https://github.com/search?q=user%3AMJ159023l+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+
 <!--
 **MJ159023/MJ159023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
