@@ -24,14 +24,17 @@ Computer Science languages used:
 Example projects:
 
 ARM 32 for rasberry pi simple collection of work
+
 https://github.com/MJ159023/TEJ4M-Unit-2-13
 
 Recursion projects
+
 https://github.com/MJ159023/ISC4U-assigment-3
 
 https://github.com/MJ159023/ICS4U-Unit-3-02-version-2
 
 Learning to use objects by creating classes for "characters"
+
 https://github.com/MJ159023/Assigment-Unit-2-copy
 
 
