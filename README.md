@@ -2,7 +2,7 @@
 
 Hi my name Emery and I'm interested in game design and tech
 
-Coding languages I've worked with:
+Operating systems I've used:
 
  <a href="https://linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"></a>
  <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"></a>
