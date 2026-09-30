@@ -23,7 +23,7 @@ Computer Science languages used:
 
 Example projects:
 
-ARM 32 for rasberry pi simple collection of work
+ARM 32 for Raspberry Pi simple collection of work
 
 https://github.com/MJ159023/TEJ4M-Unit-2-13
 
